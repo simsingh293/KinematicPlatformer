@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848187daefcbc004aa18c92d828cbaa9, type: 3}
+  m_Name: Pass
+  m_EditorClassIdentifier: 
+  trueBehaviour: {fileID: 11400000, guid: d63157041e683774e8c1ae422dfdaeb4, type: 2}
+  falseBehaviour: {fileID: 11400000, guid: 042bbd7d523e9b546be0d0549b92f082, type: 2}
+  length: 2
+  direction: {x: 0, y: 1, z: 0}
+  layerMask:
+    serializedVersion: 2
+    m_Bits: 256
